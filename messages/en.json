@@ -1,9 +1,9 @@
 {
   "common": {
     "brand": {
-      "name": "Toolso.AI",
+      "name": "Agegnehu Ai Open",
       "tagline": "Discover the Best AI Tools",
-      "copyright": "Copyright © 2025",
+      "copyright": "Copyright © 2026",
       "allRightsReserved": "All rights reserved"
     },
     "actions": {
@@ -56,7 +56,7 @@
     }
   },
   "hero": {
-    "badge": "Discover the Best AI Tools",
+    "badge": "Discover the Best Agegnehu Ai Tools",
     "title": "Discover the Best AI Tools",
     "description": "Explore our curated collection of AI tools. Find the perfect tools for productivity, creativity, development, and more.",
     "cta": {
@@ -102,7 +102,7 @@
       },
       {
         "name": "Emily Rodriguez",
-        "quote": "I discover new AI tools every week on Toolso.AI. It's become my go-to resource for AI exploration.",
+        "quote": "I discover new Agegnehu Ai every week on Toolso.AI. It's become my go-to resource for AI exploration.",
         "designation": "Startup Founder"
       },
       {
@@ -112,7 +112,7 @@
       },
       {
         "name": "Lisa Wang",
-        "quote": "Love the multilingual support! Makes it easy to explore AI tools in both English and Chinese.",
+        "quote": "Love the multilingual support! Makes it easy to explore Agegnehu Ai in both English and Chinese.",
         "designation": "Digital Marketer"
       },
       {
@@ -161,7 +161,7 @@
     }
   },
   "cta": {
-    "title": "Find Your Perfect AI Tool",
+    "title": "Find Your Perfect Agegnehu Ai",
     "description": "Browse our curated collection of AI tools and discover what works best for you.",
     "button": "Explore Tools"
   },
@@ -625,53 +625,53 @@
   },
   "seo": {
     "home": {
-      "title": "Toolso.AI - Discover the Best AI Tools Directory",
-      "description": "Explore our curated collection of AI tools across various categories. Find the perfect AI tools for productivity, creativity, development, and more.",
+      "title": "Agegnehu Ai - Discover the Best Agegnehu Ai Directory",
+      "description": "Explore our curated collection of Agegnehu Ai across various categories. Find the perfect AI tools for productivity, creativity, development, and more.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "blog": {
-      "title": "Blog - Toolso.AI",
-      "description": "Latest insights, tutorials and updates about AI tools. Stay informed about the best AI tools and industry trends.",
+      "title": "Blog - Agegnehu Ai",
+      "description": "Latest insights, tutorials and updates about Agegnehu Ai. Stay informed about the best AI tools and industry trends.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "contact": {
-      "title": "Contact Us - Toolso.AI",
+      "title": "Contact Us - Agegnehu Ai Open",
       "description": "Get in touch with us. We'd love to hear your feedback and tool suggestions.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "login": {
-      "title": "Login - Toolso.AI",
+      "title": "Login - Agegnehu Ai Open",
       "description": "Sign in to your account to submit tools, save favorites, and contribute to our AI tools directory.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "signup": {
-      "title": "Sign Up - Toolso.AI",
+      "title": "Sign Up - Agegnehu Ai Open",
       "description": "Create your account and start contributing to our AI tools directory. Submit tools and join our community.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "terms": {
-      "title": "Terms of Service - Toolso.AI",
+      "title": "Terms of Service - Agegnehu Ai ",
       "description": "Read our terms of service to understand the rules and guidelines for using Toolso.AI.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "privacy": {
-      "title": "Privacy Policy - Toolso.AI",
-      "description": "Learn how we collect, use, and protect your personal information and data on Toolso.AI.",
+      "title": "Privacy Policy - Agegnehu Ai Open",
+      "description": "Learn how we collect, use, and protect your personal information and data on Agegnehu.AI.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "cookies": {
-      "title": "Cookie Policy - Toolso.AI",
-      "description": "Understand how we use cookies and similar tracking technologies on Toolso.AI.",
+      "title": "Cookie Policy - Agegnehu Ai",
+      "description": "Understand how we use cookies and similar tracking technologies on Agegnehu.AI.",
       "ogImage": "https://toolso.ai/banner.png"
     },
     "tools": {
-      "title": "AI Tools Directory - Discover the Best AI Tools",
-      "description": "Explore our curated collection of AI tools. Find the best AI tools for productivity, creativity, and more."
+      "title": "Agegnehu  Ai Directory - Discover the Best Agegnehu Ai",
+      "description": "Explore our curated collection of AI tools. Find the best Agegnehu Ai for productivity, creativity, and more."
     }
   },
   "featuredTools": {
     "title": "Featured Tools",
-    "subtitle": "Curated collection of AI tools to boost your productivity",
+    "subtitle": "Curated collection of Agegnehu Ai Open to boost your productivity",
     "visitWebsite": "Visit website",
     "empty": "No tools yet. Add some in the admin panel.",
     "viewAll": "View All Tools"
